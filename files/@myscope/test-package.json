@@ -1,0 +1,45 @@
+{
+  "_id": "@myscope/test-package",
+  "name": "@myscope/test-package",
+  "description": "",
+  "dist-tags": { "latest": "1.2.0" },
+  "versions": {
+    "1.1.0": {
+      "name": "@myscope/test-package",
+      "version": "1.1.0",
+      "description": "",
+      "main": "index.js",
+      "scripts": { "test": "echo \"Error: no test specified\" && exit 1" },
+      "author": "",
+      "license": "ISC",
+      "readme": "ERROR: No README data found!",
+      "_id": "@myscope/test-package@1.1.0",
+      "_nodeVersion": "16.20.0",
+      "_npmVersion": "8.19.4",
+      "dist": {
+        "integrity": "sha512-9wkg0Z3sjm9D9y2e+6YEybONIQ4kRe7VxkOrr94eVvYj2e4HYE23UACUDZLqr4aEUQjbIG2bsdLZVKP8NfxWbA==",
+        "shasum": "e6f9bbdcc0f66d46c5e044a07192373f5f96a75b",
+        "tarball": "http://localhost:8000/@myscope/test-package/-/@myscope/test-package-1.1.0.tgz"
+      }
+    },
+    "1.2.0": {
+      "name": "@myscope/test-package",
+      "version": "1.2.0",
+      "description": "",
+      "main": "index.js",
+      "scripts": { "test": "echo \"Error: no test specified\" && exit 1" },
+      "author": "",
+      "license": "ISC",
+      "readme": "ERROR: No README data found!",
+      "_id": "@myscope/test-package@1.2.0",
+      "_nodeVersion": "16.20.0",
+      "_npmVersion": "8.19.4",
+      "dist": {
+        "integrity": "sha512-hrLGgu3gDlcGhI2twj+PbDW4r1hSGpc9TbU8akKqAYrIwhrUf30hoaanW+YaG45XMTO6VK+wfvqKPxYGs8WZwQ==",
+        "shasum": "5e0fb5b07d004414a76660798eb4fb17b27a4044",
+        "tarball": "http://localhost:8000/@myscope/test-package/-/@myscope/test-package-1.2.0.tgz"
+      }
+    }
+  },
+  "access": null
+}
