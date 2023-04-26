@@ -1,0 +1,8 @@
+
+.DS_Store
+.idea/deno.xml
+.idea/deno_npm_registry.iml
+.idea/markdown.xml
+.idea/modules.xml
+.idea/vcs.xml
+test-package/.DS_Store
